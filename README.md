@@ -1,7 +1,7 @@
 # Sparkify Project
 ### Building Customer Churn Predictive Model Using SPARK
 
- This repository contains the results of the Data Science Nanodegree Sparkify Capstone Project. Its main porpouse is to analyze raw data provided by a music app called Sparkify and predict if the users will churn or not based on their behaviour. For that, using the Pyspark environment, we cleaned the data, perfomed EDA, extracted features and trained Machine Learning Models.  More information can be found on a [Medium Blog Post](https://medium.com/@pedromelonet22/sparkify-churn-prediction-in-a-music-app-using-pyspark-a8daf634bf7c).
+ This repository contains the results of the Data Science Nanodegree Sparkify Capstone Project. Its main porpouse is to analyze raw data provided by a music app called Sparkify and predict if the users will churn or not based on their behaviour. For that, using the Pyspark environment, we cleaned the data, performed EDA, extracted features and trained Machine Learning Models.  More information can be found on a [Medium Blog Post](https://medium.com/@pedromelonet22/sparkify-churn-prediction-in-a-music-app-using-pyspark-a8daf634bf7c).
 
 
 ## Table of Contents
