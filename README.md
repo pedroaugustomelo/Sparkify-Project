@@ -40,7 +40,7 @@ You will also need to have software installed like Anaconda to run and execute a
 
 ## Result
 We Split the data into train and test sets , built a transformation pipeline and trained four Machine Learning models(Logistic Regression, Random Forest, Decision Trees and Gradient-Boosted Trees).
-Since the churned users are a fairly small subset, we used F1 score as the metric to optimize and found that GBTClassifier was the best one to predict if a user will churn. 
+Since the churned users are a fairly small subset, we used F1 score as the metric to optimize and found that Logistic Regression was the best one to predict if a user will churn. 
 
 
 ## Licensing, Authors, Acknowledgements
